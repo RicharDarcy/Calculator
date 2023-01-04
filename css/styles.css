@@ -1,0 +1,9 @@
+#screen{
+    text-align: right;
+}
+
+#memory{
+    top: 100px;
+    left: 20px;
+    display: none;
+}
